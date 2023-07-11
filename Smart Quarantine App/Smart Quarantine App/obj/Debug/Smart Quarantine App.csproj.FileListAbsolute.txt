@@ -1,0 +1,31 @@
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\bin\Debug\Smart Quarantine App.exe.config
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\bin\Debug\Smart Quarantine App.exe
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\bin\Debug\Smart Quarantine App.pdb
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form1.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Properties.Resources.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.exe
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.pdb
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form2.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form7.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form10.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form11.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form12.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form5.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form8.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form9.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form14.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form3.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form13.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form15.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form16.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form17.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form6.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form18.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form4.resources
+C:\Users\user\source\repos\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart_Quarantine_App.Form19.resources
+C:\Users\alexa\OneDrive\Υπολογιστής\Απαλλακτική Εργασία ΑΑΥ\Çºÿóóÿí½áíπ ä¿Üÿ⌐σÿ ÇÇô\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.csprojAssemblyReference.cache
+C:\Users\alexa\OneDrive\Υπολογιστής\Απαλλακτική Εργασία ΑΑΥ\Çºÿóóÿí½áíπ ä¿Üÿ⌐σÿ ÇÇô\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.exe
+C:\Users\alexa\OneDrive\Υπολογιστής\Απαλλακτική Εργασία ΑΑΥ\Çºÿóóÿí½áíπ ä¿Üÿ⌐σÿ ÇÇô\Smart Quarantine App\Smart Quarantine App\obj\Debug\Smart Quarantine App.pdb
